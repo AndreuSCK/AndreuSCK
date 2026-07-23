@@ -27,11 +27,11 @@ A full-featured e-commerce storefront built to explore realistic product workflo
 
 ---
 
-### [CustomRangeComponent](https://github.com/AndreuSCK/CustomRangeComponent) · [Live Demo](https://custom-range-component.vercel.app/)
+### [t3construct](https://github.com/AndreuSCK/t3construct) — Construct Jobs
 
-A reusable dual-thumb range slider built from scratch with a modular component architecture. Handles drag interactions, value snapping, and dynamic API-driven modes — with a mocked Next.js API route and unit tests covering both logic and UI behavior.
+A full-stack job board for the construction industry with authenticated company dashboards, job posting workflows, and location-aware listings. Built on the T3 Stack with end-to-end type safety via tRPC, Clerk authentication, Google Maps integration, and file uploads through UploadThing — backed by CockroachDB and Prisma.
 
-**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · Jest · React Testing Library
+**Stack:** Next.js 14 · TypeScript · tRPC · React Query · Clerk · Prisma · CockroachDB · UploadThing · React Hook Form · Zod
 
 ---
 
