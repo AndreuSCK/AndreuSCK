@@ -19,7 +19,7 @@ Modernizing a global toll management platform at **Tecsidel ITS** — React 19, 
 
 ## Featured Projects
 
-### [Online-Shoes](https://github.com/AndreuSCK/ZapatosMango) · [Live Demo](https://online-shoes-six.vercel.app/)
+### [Online-Shoes](https://github.com/AndreuSCK/online-shoes) · [Live Demo](https://online-shoes-six.vercel.app/)
 
 A full-featured e-commerce storefront built to explore realistic product workflows with modern React patterns. The app includes a product catalog with filtering, sorting, and price-range selection, backed by PostgreSQL via Prisma and styled with Tailwind CSS.
 
